@@ -5,6 +5,12 @@ DocChat is an end-to-end **Retrieval-Augmented Generation (RAG)** system that al
 This project is intentionally designed to **avoid hallucination** by constraining the language model to answer based only on retrieved document context.
 
 ---
+## 🎥 Project Demo
+
+Click the thumbnail below to watch a working demo of DocChat:
+
+[![DocChat Demo](https://www.youtube.com/watch?v=NA0gOrDO9zU)
+
 
 ## 🚀 Key Features
 
