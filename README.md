@@ -9,7 +9,7 @@ This project is intentionally designed to **avoid hallucination** by constrainin
 
 Click the thumbnail below to watch a working demo of DocChat:
 
-[![DocChat Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=NA0gOrDO9zU)
+[![DocChat Demo](https://img.youtube.com/vi/NA0gOrDO9zU/0.jpg)](https://www.youtube.com/watch?v=NA0gOrDO9zU)
 
 ## 🚀 Key Features
 
